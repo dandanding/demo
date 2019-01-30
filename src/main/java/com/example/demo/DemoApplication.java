@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
         System.out.print("3 pull");
-		SpringApplication.run(DemoApplication.class, args);
+		    SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
