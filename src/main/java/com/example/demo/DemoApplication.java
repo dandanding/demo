@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-        System.out.print("test pull");
+        System.out.print("3 pull");
+        System.out.print("second pull");
+         System.out.print("1 pull");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
