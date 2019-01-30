@@ -10,6 +10,7 @@ public class DemoApplication {
         System.out.print("3 pull");
         System.out.print("second pull");
          System.out.print("11111 pull");
+         System.out.print("merge pull");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
