@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
         System.out.print("3 pull");
         System.out.print("second pull");
-         System.out.print("11111 pull");
+        System.out.print("11111 pull");
          System.out.print("merge pull");
 		SpringApplication.run(DemoApplication.class, args);
 	}
